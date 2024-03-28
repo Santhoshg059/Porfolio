@@ -1,0 +1,123 @@
+[
+   
+    {
+      "name": "COMRADE-Ride sharing",
+      "desc": "Comrade Carpooling: A user-friendly app promoting eco-friendly ride-sharing and community connectivity.",
+      "image": "comrade",
+      "category": "mern",
+      "links": {
+        "view": "https://frontend-sage-one-40.vercel.app/",
+        "code": "https://github.com/Santhoshg059/frontend"
+      }
+    },
+    {
+      "name": "Password Reset-OTP",
+      "desc": "Secure Password Reset: Users receive a one-time password (OTP) via email for authentication, ensuring a safe and convenient password reset process.",
+      "image": "reset",
+      "category": "mern",
+      "links": {
+        "view": "https://65ba37e9cb39f5ccb7497abb--magical-froyo-1c1db8.netlify.app/",
+        "code": "https://github.com/Santhoshg059/passwordf"
+      }
+    },
+    {
+      "name": "Guvi course-clone",
+      "desc": "GUVI Course Page Clone: A faithful reproduction of GUVI's course page, demonstrating frontend development skills.",
+      "image": "Guvi1",
+      "category": "mern",
+      "links": {
+        "view": "https://sbpage.vercel.app/home",
+        "code": "https://github.com/Santhoshg059/sbpage"
+      }
+    },
+    {
+      "name": "ToDo Application",
+      "desc": "Todo App: Simplify task management with a user-friendly interface for creating, tracking, and completing tasks efficiently.",
+      "image": "todo",
+      "category": "mern",
+      "links": {
+        "view": "https://todoreact-theta.vercel.app/",
+        "code": "https://github.com/Santhoshg059/todoreact"
+      }
+    },
+    {
+      "name": "Calculator",
+      "desc": "HTML/CSS Calculator: A minimalist calculator built with HTML and CSS, offering basic arithmetic functions in a visually appealing interface.",
+      "image": "calc",
+      "category": "lamp",
+      "links": {
+        "view": "https://calculator-beta-weld.vercel.app/",
+        "code": "https://github.com/Santhoshg059/Calculator"
+      }
+    },
+    {
+      "name": "AuthorSphere",
+      "desc": "AuthorSphere: Streamlined author data management for organizations.",
+      "image": "auth",
+      "category": "basicweb",
+      "links": {
+        "view": "https://formik-mocha.vercel.app/",
+        "code": "https://github.com/Santhoshg059/formik"
+      }
+    },
+    {
+      "name": "API CRUD",
+      "desc": "Axios CRUD Operations: Simplify data management with seamless creation, editing, and deletion capabilities.",
+      "image": "crud",
+      "category": "mern",
+      "links": {
+        "view": "https://axinostask.vercel.app/",
+        "code": "https://github.com/Santhoshg059/axinostask"
+      }
+    },
+    {
+      "name": "Shopping Cart",
+      "desc": "Shopping Cart: A user-friendly interface for browsing, selecting, and managing items for purchase, offering seamless checkout.",
+      "image": "shop",
+      "category": "mern",
+      "links": {
+        "view": "https://shop-page-six.vercel.app/",
+        "code": "https://github.com/Santhoshg059/shop-page"
+      }
+    },
+    {
+      "name": "API Chess player",
+      "desc": "Chess Player API: Access player ratings, game history, and tournament details effortlessly.",
+      "image": "chess",
+      "category": "mern",
+      "links": {
+        "view": "https://api-async-2.vercel.app/",
+        "code": "https://github.com/Santhoshg059/API-Async-2"
+      }
+    },
+    {
+      "name": "Portfolio Website",
+      "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+      "image": "portfolio",
+      "category": "basicweb",
+      "links": {
+        "view": "#"
+      }
+    },
+    {
+      "name": "Random Image",
+      "desc": "Random Image API: Get diverse images for any purpose instantly.",
+      "image": "random",
+      "category": "basicweb",
+      "links": {
+        "view": "https://random-dog-image-from-api.vercel.app/",
+        "code": "https://github.com/Santhoshg059/Random-Dog-Image-From-API"
+      }
+    },
+    {
+      "name": "Country Weather API",
+      "desc": "Fetches detailed information about countries, including weather forecasts and climate data, providing comprehensive insights for travelers, researchers, and weather enthusiasts alike.",
+      "image": "country",
+      "category": "android",
+      "links": {
+        "view": "https://rest-countries-fetch.vercel.app/",
+        "code": "https://github.com/Santhoshg059/Rest-countries-fetch"
+      }
+    }
+
+  ]
